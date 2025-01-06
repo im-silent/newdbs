@@ -1,0 +1,1 @@
+{"endpoint": "127.0.0.1:1234", "id": 3, "identifiers": ["license:c50051fd59e6f1b3efd4bac7678c8e58546de0b4", "xbl:2535412892414620", "live:914799473909606", "discord:1009661253330935929", "fivem:10412596", "license2:695bae4516edd07abb0f8390badabfddaf556e49"], "name": "destroyed_mkiv_", "ping": 27}
